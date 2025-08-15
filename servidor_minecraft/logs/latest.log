@@ -1,0 +1,1148 @@
+[15Aug2025 22:11:22.942] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[15Aug2025 22:11:22.945] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[15Aug2025 22:11:37.039] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[15Aug2025 22:11:37.203] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-PRO/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[15Aug2025 22:11:37.821] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-PRO/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[15Aug2025 22:11:37.824] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-PRO/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[15Aug2025 22:11:37.825] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-PRO/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[15Aug2025 22:11:37.826] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-PRO/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[15Aug2025 22:11:38.409] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[15Aug2025 22:11:38.412] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: aeroblender. Using Mod File: /workspaces/SERVER-PRO/servidor_minecraft/mods/aeroblender-1.20.1-1.0.1-neoforge.jar
+[15Aug2025 22:11:38.412] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/SERVER-PRO/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
+[15Aug2025 22:11:38.413] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 16 dependencies adding them to mods collection
+[15Aug2025 22:11:42.383] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15Aug2025 22:11:42.605] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[15Aug2025 22:11:42.607] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[15Aug2025 22:11:42.771] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[15Aug2025 22:11:42.773] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[15Aug2025 22:11:43.113] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.24.3+mc1.20.1: 96 options available, 1 override(s) found
+[15Aug2025 22:11:43.114] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [dimthread]) to 'false'
+[15Aug2025 22:11:43.114] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[15Aug2025 22:11:43.133] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[15Aug2025 22:11:43.709] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
+[15Aug2025 22:11:43.713] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
+[15Aug2025 22:11:43.714] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/simpletomb.xml
+[15Aug2025 22:11:43.716] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
+[15Aug2025 22:11:43.721] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
+[15Aug2025 22:11:43.722] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
+[15Aug2025 22:11:43.724] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
+[15Aug2025 22:11:43.728] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/sophisticated_core.xml
+[15Aug2025 22:11:43.729] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
+[15Aug2025 22:11:43.731] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/puzzlesapi.xml
+[15Aug2025 22:11:43.733] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
+[15Aug2025 22:11:43.776] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 22:11:43.793] [main/WARN] [mixin/]: Reference map 'limitedchunks.refmap.json' for limitedchunks.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 22:11:43.850] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 22:11:43.961] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 22:11:44.563] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[15Aug2025 22:11:44.575] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[15Aug2025 22:11:44.855] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[15Aug2025 22:11:44.855] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[15Aug2025 22:11:44.856] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[15Aug2025 22:11:45.332] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/geom/builders/LayerDefinition (java.lang.ClassNotFoundException: net.minecraft.client.model.geom.builders.LayerDefinition)
+[15Aug2025 22:11:45.332] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.geom.builders.LayerDefinition was not found aether_protect_your_moa.mixins.json:client.accessor.LayerDefinitionAccessor
+[15Aug2025 22:11:45.988] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
+[15Aug2025 22:11:45.989] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
+[15Aug2025 22:11:45.990] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found mixins.prehistoricfauna.json:GuiMixin
+[15Aug2025 22:11:46.213] [main/WARN] [mixin/]: Error loading class: com/aetherteam/aether_genesis/block/natural/GreenAercloudBlock (java.lang.ClassNotFoundException: com.aetherteam.aether_genesis.block.natural.GreenAercloudBlock)
+[15Aug2025 22:11:46.213] [main/WARN] [mixin/]: @Mixin target com.aetherteam.aether_genesis.block.natural.GreenAercloudBlock was not found aether_redux.mixins.json:common.block.GreenAercloudBlockMixin
+[15Aug2025 22:11:46.216] [main/WARN] [mixin/]: Error loading class: com/aetherteam/aether_genesis/block/natural/OrangeTreeBlock (java.lang.ClassNotFoundException: com.aetherteam.aether_genesis.block.natural.OrangeTreeBlock)
+[15Aug2025 22:11:46.216] [main/WARN] [mixin/]: @Mixin target com.aetherteam.aether_genesis.block.natural.OrangeTreeBlock was not found aether_redux.mixins.json:common.block.OrangeTreeMixin
+[15Aug2025 22:11:46.218] [main/WARN] [mixin/]: Error loading class: com/aetherteam/aether_genesis/block/natural/PurpleAercloudBlock (java.lang.ClassNotFoundException: com.aetherteam.aether_genesis.block.natural.PurpleAercloudBlock)
+[15Aug2025 22:11:46.218] [main/WARN] [mixin/]: @Mixin target com.aetherteam.aether_genesis.block.natural.PurpleAercloudBlock was not found aether_redux.mixins.json:common.block.PurpleAercloudBlockMixin
+[15Aug2025 22:11:46.641] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER
+[15Aug2025 22:11:46.641] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/vertex/VertexFormat$Mode (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER)
+[15Aug2025 22:11:46.691] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: java.util.ConcurrentModificationException
+[15Aug2025 22:11:46.692] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1605)
+[15Aug2025 22:11:46.692] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at java.base/java.util.HashMap$ValueIterator.next(HashMap.java:1633)
+[15Aug2025 22:11:46.693] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.computeLaunchPluginTransformerSet(LaunchPluginHandler.java:68)
+[15Aug2025 22:11:46.693] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:64)
+[15Aug2025 22:11:46.693] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[15Aug2025 22:11:46.693] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[15Aug2025 22:11:46.693] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[15Aug2025 22:11:46.694] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[15Aug2025 22:11:46.694] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[15Aug2025 22:11:46.694] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[15Aug2025 22:11:46.695] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[15Aug2025 22:11:46.696] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at TRANSFORMER/modernfix@5.24.3+mc1.20.1/org.embeddedt.modernfix.forge.config.NightConfigWatchThrottler$1.values(NightConfigWatchThrottler.java:37)
+[15Aug2025 22:11:46.696] [Thread-0/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:162)
+[15Aug2025 22:11:46.704] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15Aug2025 22:11:47.689] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (31.21 s after launch)
+[15Aug2025 22:11:47.945] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[15Aug2025 22:11:47.946] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[15Aug2025 22:11:49.137] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[15Aug2025 22:11:49.138] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[15Aug2025 22:11:51.448] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3755 milliseconds
+[15Aug2025 22:11:52.208] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[15Aug2025 22:11:52.209] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[15Aug2025 22:11:54.405] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[15Aug2025 22:11:54.531] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[15Aug2025 22:11:55.183] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[15Aug2025 22:11:55.540] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[15Aug2025 22:11:55.599] [modloading-worker-0/INFO] [STDOUT/]: [io.github.kosmx.bendylib.forge.ForgeModInterface:<init>:18]: [bendy-lib] You're loading a client-only mod on server-side
+[15Aug2025 22:11:55.600] [modloading-worker-0/INFO] [STDOUT/]: [io.github.kosmx.bendylib.forge.ForgeModInterface:<init>:19]: [bendy-lib] Most likely it won't be a problem
+[15Aug2025 22:11:55.972] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[15Aug2025 22:11:55.978] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[15Aug2025 22:11:55.978] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[15Aug2025 22:11:55.979] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[15Aug2025 22:11:56.305] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[15Aug2025 22:11:56.416] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[15Aug2025 22:11:56.573] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Lost Content compat items
+[15Aug2025 22:11:56.576] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Lost Content compat items
+[15Aug2025 22:11:56.576] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Protect Your Moa compat items
+[15Aug2025 22:11:56.644] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.645] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.646] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.646] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.647] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.650] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.650] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.650] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.651] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.651] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.652] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.652] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.652] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.653] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.653] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.653] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAether/]: Deep Aether: Registering Aether Redux compat blocks
+[15Aug2025 22:11:56.763] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@111a7973 on thread Thread[#32,modloading-worker-0,5,main]
+[15Aug2025 22:11:56.765] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.lang.ClassLoader.defineClass0(Native Method) ~[?:?]
+	at java.lang.System$2.defineClass(System.java:2394) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClass(MethodHandles.java:2505) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.generateInnerClass(InnerClassLambdaMetafactory.java:361) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.spinInnerClass(InnerClassLambdaMetafactory.java:286) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.buildCallSite(InnerClassLambdaMetafactory.java:221) ~[?:?]
+	at java.lang.invoke.LambdaMetafactory.metafactory(LambdaMetafactory.java:341) ~[?:?]
+	at java.lang.invoke.BootstrapMethodInvoker.invoke(BootstrapMethodInvoker.java:134) ~[?:?]
+	at java.lang.invoke.CallSite.makeSite(CallSite.java:316) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:274) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:264) ~[?:?]
+	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23283!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:28) ~[obscure_api-15.jar%23283!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:46) ~[obscure_api-15.jar%23283!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:69) ~[obscure_api-15.jar%23283!/:com.obscuria]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.4.0.jar%23327!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:126) ~[fmlcore-1.20.1-47.4.0.jar%23326!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[15Aug2025 22:11:56.767] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[15Aug2025 22:11:56.845] [modloading-worker-0/INFO] [STDOUT/]: [com.tiviacz.travelersbackpack.TravelersBackpack:readOldCommonConfig:178]: curiosIntegration not found in the [common.backpackSettings] section.
+[15Aug2025 22:11:57.197] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[15Aug2025 22:11:57.259] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[15Aug2025 22:11:57.260] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[15Aug2025 22:11:57.280] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[15Aug2025 22:11:59.225] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[15Aug2025 22:11:59.230] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[15Aug2025 22:11:59.231] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[15Aug2025 22:11:59.672] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[15Aug2025 22:12:00.849] [modloading-worker-0/INFO] [STDOUT/]: [com.enderio.core.EnderCore:onConstruct:25]: ================ Core construct ==================
+[15Aug2025 22:12:00.851] [modloading-worker-0/INFO] [STDOUT/]: [com.enderio.conduits.EIOConduits:onConstruct:30]: ================ Conduits construct ==================
+[15Aug2025 22:12:00.873] [modloading-worker-0/ERROR] [io.redspace.ironsspellbooks.IronsSpellbooks/]: SpellDiscovery:  net.acetheeldritchking.cataclysm_spellbooks.entity.mobs.SummonedAmethystCrab, java.lang.ClassCastException: class net.acetheeldritchking.cataclysm_spellbooks.entity.mobs.SummonedAmethystCrab
+[15Aug2025 22:12:00.948] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[15Aug2025 22:12:00.949] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[15Aug2025 22:12:07.987] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[15Aug2025 22:12:07.995] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[15Aug2025 22:12:07.998] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[15Aug2025 22:12:08.000] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[15Aug2025 22:12:08.298] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[15Aug2025 22:12:08.315] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[15Aug2025 22:12:08.998] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/SERVER-PRO/servidor_minecraft/config/unusualprehistory-common.toml is not correct. Correcting
+[15Aug2025 22:12:08.999] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key brachi_sound_volume was corrected from 3.0 to its default, 3.0. 
+[15Aug2025 22:12:09.000] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key brachi_teen_sound_volume was corrected from 1.5 to its default, 1.5. 
+[15Aug2025 22:12:09.000] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key rex_sound_volume was corrected from 0.5 to its default, 0.5. 
+[15Aug2025 22:12:09.004] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[15Aug2025 22:12:09.171] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[15Aug2025 22:12:09.366] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[15Aug2025 22:12:09.454] [modloading-worker-0/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
+[15Aug2025 22:12:09.466] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.16 initializing...
+[15Aug2025 22:12:09.491] [modloading-worker-0/INFO] [com.farsight.FarsightMod/]: farsight_view mod initialized
+[15Aug2025 22:12:09.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[15Aug2025 22:12:09.617] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[15Aug2025 22:12:09.617] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[15Aug2025 22:12:09.644] [modloading-worker-0/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:commonSetup:41]: THE_AETHER
+[15Aug2025 22:12:09.645] [modloading-worker-0/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:commonSetup:42]: [OVERWORLD, NETHER, THE_AETHER]
+[15Aug2025 22:12:09.646] [modloading-worker-0/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:commonSetup:43]: THE_AETHER
+[15Aug2025 22:12:09.647] [modloading-worker-0/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:commonSetup:45]: THE_AETHER
+[15Aug2025 22:12:09.647] [modloading-worker-0/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:commonSetup:46]: [OVERWORLD, NETHER, THE_AETHER]
+[15Aug2025 22:12:09.648] [modloading-worker-0/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:commonSetup:47]: THE_AETHER
+[15Aug2025 22:12:09.655] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[15Aug2025 22:12:09.658] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
+[15Aug2025 22:12:09.658] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[15Aug2025 22:12:09.897] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.382 Target: null
+[15Aug2025 22:12:09.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lost_aether_content] Starting version check at http://changelogs.moddinglegacy.com/lost-content.json
+[15Aug2025 22:12:10.035] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[15Aug2025 22:12:10.035] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[15Aug2025 22:12:10.036] [main/INFO] [terrablender/]: Registered region aether:the_aether to index 0 for type THE_AETHER
+[15Aug2025 22:12:10.036] [main/INFO] [terrablender/]: Registered region deep_aether:deep_aether to index 1 for type THE_AETHER
+[15Aug2025 22:12:10.036] [main/INFO] [terrablender/]: Registered region deep_aether:rare to index 2 for type THE_AETHER
+[15Aug2025 22:12:10.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lost_aether_content] Found status: UP_TO_DATE Current: 1.2.3 Target: null
+[15Aug2025 22:12:10.260] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[15Aug2025 22:12:10.335] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[15Aug2025 22:12:10.335] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[15Aug2025 22:12:10.336] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[15Aug2025 22:12:10.336] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[15Aug2025 22:12:10.425] [main/INFO] [terrablender/]: Registered region aether_redux:aether_redux_region to index 3 for type THE_AETHER
+[15Aug2025 22:12:10.734] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[15Aug2025 22:12:10.872] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
+[15Aug2025 22:12:10.881] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[15Aug2025 22:12:10.882] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[15Aug2025 22:12:10.883] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[15Aug2025 22:12:10.883] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at bl4ckscor3.mod.globalxp.compat.WailaDataProvider
+[15Aug2025 22:12:10.884] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[15Aug2025 22:12:10.886] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[15Aug2025 22:12:10.886] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[15Aug2025 22:12:10.896] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[15Aug2025 22:12:10.900] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[15Aug2025 22:12:10.901] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[15Aug2025 22:12:10.933] [main/INFO] [citadel/]: adding citadel surface rules via terrablender...
+[15Aug2025 22:12:10.934] [main/INFO] [citadel/]: Added 0 vanilla biome surface rule types via terrablender
+[15Aug2025 22:12:10.934] [main/INFO] [citadel/]: Added 1 modded biome surface rule types via terrablender
+[15Aug2025 22:12:11.209] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.209] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.210] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.210] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.211] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.211] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.211] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.211] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.212] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.212] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.212] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.212] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.213] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.213] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.213] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.213] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.213] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.213] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.214] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.214] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.214] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.214] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.214] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.214] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.215] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.215] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.215] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.215] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.215] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.215] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.216] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.216] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.216] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.216] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.217] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.217] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.217] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.217] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.218] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.218] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.218] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.218] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.218] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.218] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.219] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.219] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.219] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.219] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.220] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.220] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.220] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.220] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.221] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.221] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.221] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.221] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.222] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.222] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.222] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.222] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.223] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.223] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.223] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.223] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.223] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.224] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.224] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.224] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.224] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.224] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.224] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.225] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.225] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.225] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.226] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.226] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.226] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.226] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.227] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.227] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.227] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.228] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.228] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.228] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.229] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.229] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.229] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.229] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.230] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.230] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.230] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.230] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.231] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.231] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.231] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.231] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.232] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.232] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.232] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.233] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.233] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.233] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.234] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.234] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.234] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.234] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.235] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.235] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.235] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.235] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.236] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.236] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.236] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.236] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.237] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.237] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.238] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.238] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.238] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.238] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.239] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.239] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.239] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.239] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.240] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.240] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.240] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.240] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.241] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.241] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.241] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.241] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.242] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.242] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.242] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.242] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.243] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.243] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.243] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.243] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.244] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.244] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.244] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.244] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.244] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.244] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.245] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.245] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.245] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.245] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.245] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.245] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.246] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.246] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.246] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.246] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.246] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.246] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.247] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.247] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.247] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.247] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.248] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.248] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.248] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.248] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.249] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.249] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.249] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.249] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.249] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.249] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.249] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.249] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.250] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.250] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.250] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.250] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.250] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.250] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.250] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.251] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.728] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15Aug2025 22:12:11.970] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.970] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.970] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.970] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.971] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.971] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.971] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.971] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.971] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.971] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.972] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.972] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.972] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.972] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.972] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.972] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.972] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.972] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.972] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.973] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.973] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.973] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.973] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.973] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.973] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.973] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.974] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.974] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.974] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.974] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.974] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.975] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.975] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.975] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.975] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.975] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.975] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.976] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.976] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.976] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.976] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.976] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.976] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.977] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.977] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.977] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.977] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.977] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.977] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.977] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.977] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.978] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.978] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.978] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.978] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.978] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.978] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.978] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.979] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.979] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.979] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.979] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.979] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.979] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.979] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.979] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.980] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.980] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.980] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.980] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.980] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.980] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.981] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.981] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.981] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.981] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.981] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.981] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.982] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.982] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.982] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.982] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.982] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.982] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.983] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.983] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.983] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.983] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.983] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.983] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.984] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.984] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.984] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.984] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.984] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.984] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.985] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.985] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.985] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.985] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.985] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.985] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.986] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.986] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.986] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.986] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.986] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.986] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.987] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.987] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.987] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.987] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.987] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.988] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.988] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.988] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.988] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.988] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.988] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.989] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.989] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.989] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.989] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.989] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.990] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.990] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.990] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.990] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.990] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.990] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.990] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.991] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.991] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.991] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.991] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.991] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.991] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.991] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.991] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.992] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.992] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.992] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.992] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.992] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.992] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.993] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.993] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.993] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.993] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.993] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.994] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.994] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.994] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.994] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.994] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.994] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.995] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.995] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.995] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.995] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.995] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.995] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.996] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.996] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.996] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.996] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.996] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.996] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.996] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.997] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.997] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.997] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.997] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.997] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.997] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.997] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.998] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.998] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.998] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.998] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:11.998] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:11.998] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.153] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.154] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.154] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.154] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.154] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.154] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.154] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.155] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.155] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.155] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.155] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.155] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.155] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.155] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.156] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.156] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.156] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.156] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.156] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.156] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.156] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.156] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.157] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.157] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.157] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.157] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.157] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.157] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.157] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.157] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.158] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.158] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.158] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.158] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.158] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.158] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.158] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.159] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.159] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.159] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.159] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.159] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.159] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.159] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.160] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.160] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.160] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.160] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.160] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.160] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.160] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.160] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.161] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.161] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.161] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.161] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.161] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.161] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.161] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.162] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.162] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.162] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.162] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.162] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.162] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.162] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.163] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.163] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.163] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.163] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.163] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.163] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.163] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.163] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.164] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.164] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.164] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.164] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.164] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.164] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.164] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.164] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.165] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.165] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.165] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.165] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.165] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.165] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.165] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.165] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.166] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.166] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.166] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.166] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.166] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.166] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.166] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.166] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.167] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.167] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.167] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.167] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.167] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.167] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.167] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.167] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.168] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.168] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.168] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.168] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.168] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.168] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.168] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.169] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.169] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.169] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.169] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.169] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.169] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.169] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.169] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.170] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.170] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.170] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.170] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.170] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.170] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.170] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.170] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.171] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.171] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.171] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.171] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.171] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.171] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.171] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.172] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.172] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.172] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.172] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.172] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.172] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.172] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.172] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.173] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.173] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.173] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.173] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.173] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.173] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.173] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.173] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.174] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.174] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.174] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.174] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.174] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.174] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.174] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.175] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.175] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.175] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.175] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.175] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.175] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.175] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.175] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.175] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.176] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.176] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.176] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.176] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.176] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.176] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.176] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.176] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.177] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.177] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.177] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.177] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.177] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[15Aug2025 22:12:12.177] [main/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[15Aug2025 22:12:12.437] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-PRO/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23325!/assets/.mcassetsroot' uses unexpected schema
+[15Aug2025 22:12:12.437] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-PRO/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23325!/data/.mcassetsroot' uses unexpected schema
+[15Aug2025 22:12:13.240] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[15Aug2025 22:12:13.899] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[15Aug2025 22:12:15.170] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[15Aug2025 22:12:15.232] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[15Aug2025 22:12:15.455] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag traveloptics:magic_sword_weapon_type as it is missing following references: minecraft: (from traveloptics-5.3.1-1.20.1.jar)
+[15Aug2025 22:12:15.458] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag aether_redux:swet_jelly as it is missing following references: aether_genesis:blue_swet_jelly (from aether-redux-2.0.18-1.20.1-neoforge.jar), 
+	aether_genesis:golden_swet_jelly (from aether-redux-2.0.18-1.20.1-neoforge.jar), 
+	aether_genesis:dark_swet_jelly (from aether-redux-2.0.18-1.20.1-neoforge.jar)
+[15Aug2025 22:12:16.297] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ancient_aether:selectors/aerogetic_vase_loot
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'ancient_aether:grapes'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.0-universal.jar%23330!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23330!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[15Aug2025 22:12:16.379] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[15Aug2025 22:12:16.548] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[15Aug2025 22:12:17.208] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[15Aug2025 22:12:17.287] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 6 modifier groups
+[15Aug2025 22:12:17.375] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Aug2025 22:12:17.376] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Aug2025 22:12:17.376] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Aug2025 22:12:17.376] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Aug2025 22:12:17.376] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Aug2025 22:12:17.376] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Aug2025 22:12:17.376] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[15Aug2025 22:12:17.429] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_furnace_boat as it's serializer returned null
+[15Aug2025 22:12:17.446] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_door_from_river_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.469] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_boards_from_driftwood_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.470] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:glacia_wood_wall as it's serializer returned null
+[15Aug2025 22:12:17.471] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_stairs_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.471] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_slab_from_river_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.471] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:chiseled_river_bookshelf as it's serializer returned null
+[15Aug2025 22:12:17.473] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:crystal_log_wall as it's serializer returned null
+[15Aug2025 22:12:17.488] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[15Aug2025 22:12:17.488] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[15Aug2025 22:12:17.490] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[15Aug2025 22:12:17.490] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[15Aug2025 22:12:17.492] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_slab_from_kelpy_cobblestone_tiles_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.492] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe enderio:ae_covered_dense_cable as it's serializer returned null
+[15Aug2025 22:12:17.493] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_boards_from_river_planks_sawing as it's serializer returned null
+[15Aug2025 22:12:17.507] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tiles as it's serializer returned null
+[15Aug2025 22:12:17.511] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_furnace_boat as it's serializer returned null
+[15Aug2025 22:12:17.518] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[15Aug2025 22:12:17.523] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe aether_redux:genesis_dark_gummy_swet: com.google.gson.JsonSyntaxException: Unknown item 'aether_genesis:dark_swet_ball'
+[15Aug2025 22:12:17.527] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_ladder as it's serializer returned null
+[15Aug2025 22:12:17.529] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_wall as it's serializer returned null
+[15Aug2025 22:12:17.539] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_fence_from_river_planks_sawing as it's serializer returned null
+[15Aug2025 22:12:17.543] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:jellyshroom_hyphae_wall as it's serializer returned null
+[15Aug2025 22:12:17.556] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_fence_from_driftwood_planks_sawing as it's serializer returned null
+[15Aug2025 22:12:17.558] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:stripped_fieldsproot_log_wall as it's serializer returned null
+[15Aug2025 22:12:17.558] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_boards as it's serializer returned null
+[15Aug2025 22:12:17.566] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:crystal_wood_wall as it's serializer returned null
+[15Aug2025 22:12:17.567] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:stripped_crystal_log_wall as it's serializer returned null
+[15Aug2025 22:12:17.568] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:fieldsproot_log_wall as it's serializer returned null
+[15Aug2025 22:12:17.572] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_sign_from_driftwood_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.573] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[15Aug2025 22:12:17.573] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[15Aug2025 22:12:17.582] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_boards_from_driftwood_planks_sawing as it's serializer returned null
+[15Aug2025 22:12:17.587] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_stairs as it's serializer returned null
+[15Aug2025 22:12:17.587] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_wall_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.588] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_bricks_from_kelp as it's serializer returned null
+[15Aug2025 22:12:17.589] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_slab_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.592] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[15Aug2025 22:12:17.593] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_stairs_from_kelpy_cobblestone_tiles_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.594] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[15Aug2025 22:12:17.594] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[15Aug2025 22:12:17.595] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_wall_from_kelpy_cobblestone_tiles_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.596] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_molten_bone_greatsword: com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
+[15Aug2025 22:12:17.598] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:stripped_glacia_wood_wall as it's serializer returned null
+[15Aug2025 22:12:17.601] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_chest as it's serializer returned null
+[15Aug2025 22:12:17.604] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[15Aug2025 22:12:17.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[15Aug2025 22:12:17.605] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[15Aug2025 22:12:17.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[15Aug2025 22:12:17.606] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_fence_gate_from_driftwood_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.610] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_leaf_pile as it's serializer returned null
+[15Aug2025 22:12:17.614] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_pressure_plate_from_river_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.618] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod_element'
+[15Aug2025 22:12:17.621] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[15Aug2025 22:12:17.621] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[15Aug2025 22:12:17.621] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_leaves_from_leaf_piles as it's serializer returned null
+[15Aug2025 22:12:17.622] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe traveloptics:amethyst_bless/augment_bruteforce_blessed: com.google.gson.JsonSyntaxException: Unknown item 'traveloptics:augment_bruteforce_mythic'
+[15Aug2025 22:12:17.623] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:trapped_river_chest as it's serializer returned null
+[15Aug2025 22:12:17.632] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe enderio:rs_cable as it's serializer returned null
+[15Aug2025 22:12:17.634] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_wall_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.638] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_ladder_from_river_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.638] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_chest as it's serializer returned null
+[15Aug2025 22:12:17.641] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tiles_from_kelp as it's serializer returned null
+[15Aug2025 22:12:17.648] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_slab_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.648] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_pressure_plate_from_driftwood_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.649] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_trapdoor_from_river_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.651] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_boards_from_river_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.652] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_wall as it's serializer returned null
+[15Aug2025 22:12:17.653] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_stairs_from_driftwood_planks_sawing as it's serializer returned null
+[15Aug2025 22:12:17.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_slab_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.656] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_button_from_driftwood_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.658] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:stripped_crystal_wood_wall as it's serializer returned null
+[15Aug2025 22:12:17.659] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[15Aug2025 22:12:17.660] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:jellyshroom_stem_wall as it's serializer returned null
+[15Aug2025 22:12:17.661] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:glacia_log_wall as it's serializer returned null
+[15Aug2025 22:12:17.663] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_door_from_driftwood_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.666] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_bookshelf as it's serializer returned null
+[15Aug2025 22:12:17.667] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[15Aug2025 22:12:17.668] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_button_from_river_planks_sawing as it's serializer returned null
+[15Aug2025 22:12:17.669] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_button_from_river_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.670] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_boards as it's serializer returned null
+[15Aug2025 22:12:17.670] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe aether_treasure_reforging:valkyrie_upgrade_smithing_template: com.google.gson.JsonSyntaxException: Unknown item 'aether_treasure_reforging:valkyrie_upgrade_smithing_template'
+[15Aug2025 22:12:17.683] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_stairs_from_river_planks_sawing as it's serializer returned null
+[15Aug2025 22:12:17.689] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe traveloptics:augment_bruteforce_legendary: com.google.gson.JsonSyntaxException: Unknown item 'traveloptics:augment_bruteforce_epic'
+[15Aug2025 22:12:17.691] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[15Aug2025 22:12:17.701] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_aether:ancient_rune: com.google.gson.JsonSyntaxException: Unknown item 'ancient_aether:ancient_rune'
+[15Aug2025 22:12:17.702] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[15Aug2025 22:12:17.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[15Aug2025 22:12:17.707] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe enderio:ae_covered_cable as it's serializer returned null
+[15Aug2025 22:12:17.711] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:chiseled_driftwood_bookshelf as it's serializer returned null
+[15Aug2025 22:12:17.714] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tiles_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.716] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe aether_treasure_reforging:phoenix_upgrade_smithing_template: com.google.gson.JsonSyntaxException: Unknown item 'aether_treasure_reforging:phoenix_upgrade_smithing_template'
+[15Aug2025 22:12:17.721] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe unusualprehistory:trike_shield_smithing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[15Aug2025 22:12:17.722] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_beehive as it's serializer returned null
+[15Aug2025 22:12:17.727] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_button_from_driftwood_planks_sawing as it's serializer returned null
+[15Aug2025 22:12:17.728] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[15Aug2025 22:12:17.730] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_blazing_halberd: com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
+[15Aug2025 22:12:17.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_wall_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.733] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[15Aug2025 22:12:17.733] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[15Aug2025 22:12:17.735] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_slab_from_river_planks_sawing as it's serializer returned null
+[15Aug2025 22:12:17.736] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_ladder_from_driftwood_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.737] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[15Aug2025 22:12:17.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[15Aug2025 22:12:17.738] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_slab as it's serializer returned null
+[15Aug2025 22:12:17.738] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[15Aug2025 22:12:17.738] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[15Aug2025 22:12:17.738] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:stripped_glacia_log_wall as it's serializer returned null
+[15Aug2025 22:12:17.741] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_stairs_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_ladder_from_driftwood_planks_sawing as it's serializer returned null
+[15Aug2025 22:12:17.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_beehive as it's serializer returned null
+[15Aug2025 22:12:17.746] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_ladder_from_river_planks_sawing as it's serializer returned null
+[15Aug2025 22:12:17.748] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_sign_from_river_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.749] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_stairs_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.752] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:large_river_boat as it's serializer returned null
+[15Aug2025 22:12:17.752] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_fence_from_river_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.755] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_slab_from_driftwood_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.756] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe eidolon:smelt_silver_dust as it's serializer returned null
+[15Aug2025 22:12:17.763] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:mouse_ear_soup as it's serializer returned null
+[15Aug2025 22:12:17.765] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:trapped_driftwood_chest as it's serializer returned null
+[15Aug2025 22:12:17.766] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_fence_from_driftwood_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.769] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_wall_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.770] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_bricks as it's serializer returned null
+[15Aug2025 22:12:17.777] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[15Aug2025 22:12:17.778] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_planks_from_driftwood_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.778] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_bookshelf as it's serializer returned null
+[15Aug2025 22:12:17.780] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:stripped_fieldsproot_wood_wall as it's serializer returned null
+[15Aug2025 22:12:17.782] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_stairs_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_slab_from_driftwood_planks_sawing as it's serializer returned null
+[15Aug2025 22:12:17.790] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe traveloptics:augment_infusion/augment_bruteforce_wild: com.google.gson.JsonSyntaxException: Unknown item 'traveloptics:augment_bruteforce_legendary'
+[15Aug2025 22:12:17.794] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_slab as it's serializer returned null
+[15Aug2025 22:12:17.797] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_ladder as it's serializer returned null
+[15Aug2025 22:12:17.797] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:fieldsproot_wood_wall as it's serializer returned null
+[15Aug2025 22:12:17.798] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_planks_from_river_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.800] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[15Aug2025 22:12:17.800] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[15Aug2025 22:12:17.801] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_trapdoor_from_driftwood_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.802] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_bricks_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.803] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:redux_coarse_dirt as it's serializer returned null
+[15Aug2025 22:12:17.804] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_slab_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.804] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_stairs_from_river_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_fence_gate_from_river_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.806] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe aether_treasure_reforging:neptune_upgrade_smithing_template: com.google.gson.JsonSyntaxException: Unknown item 'aether_treasure_reforging:neptune_upgrade_smithing_template'
+[15Aug2025 22:12:17.808] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_stairs as it's serializer returned null
+[15Aug2025 22:12:17.810] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:large_driftwood_boat as it's serializer returned null
+[15Aug2025 22:12:17.810] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tiles_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[15Aug2025 22:12:17.812] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[15Aug2025 22:12:17.818] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe enderio:ae_glass_cable as it's serializer returned null
+[15Aug2025 22:12:17.821] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:enchant_purple_crystal_sapling as it's serializer returned null
+[15Aug2025 22:12:17.821] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_stairs_from_driftwood_logs_sawing as it's serializer returned null
+[15Aug2025 22:12:17.827] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 76 recipes
+[15Aug2025 22:12:17.839] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 8 modifier groups
+[15Aug2025 22:12:17.934] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement aether_redux:recipes/genesis_dark_gummy_swet: Unknown item id 'aether_genesis:dark_swet_ball'
+[15Aug2025 22:12:18.060] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement minecraft:main/tame_barina: Failed to parse 'location' field
+[15Aug2025 22:12:18.110] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7722 advancements
+[15Aug2025 22:12:18.119] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[15Aug2025 22:12:18.123] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[15Aug2025 22:12:18.128] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 22 curio slots
+[15Aug2025 22:12:18.130] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[15Aug2025 22:12:18.131] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 9 curio entities
+[15Aug2025 22:12:18.140] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[15Aug2025 22:12:18.152] [main/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Data loader for prehistoricfauna/paleontology_table loaded 3 jsons
+[15Aug2025 22:12:18.154] [main/INFO] [com.peeko32213.unusualprehistory.common.data.AnalyzerRecipeJsonManager/]: Data loader for unusualprehistory/analyzer loaded 14 jsons
+[15Aug2025 22:12:18.154] [main/INFO] [com.peeko32213.unusualprehistory.common.data.LootFruitJsonManager/]: Data loader for unusualprehistory/trades loaded 4 jsons
+[15Aug2025 22:12:18.171] [main/INFO] [com.peeko32213.unusualprehistory.common.data.EncyclopediaJsonManager/]: Data loader for unusualprehistory/encyclopedia loaded 47 jsons
+[15Aug2025 22:12:18.172] [main/INFO] [enderio/]: Data loader for eio_soul/spawner loaded 73 jsons
+[15Aug2025 22:12:18.172] [main/INFO] [enderio/]: Data loader for eio_soul/engine loaded 5 jsons
+[15Aug2025 22:12:18.173] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[15Aug2025 22:12:18.258] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[15Aug2025 22:12:18.288] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 7.506802ms
+[15Aug2025 22:12:18.292] [main/WARN] [ModernFix/]: Initial datapack load took 5.785 s
+[15Aug2025 22:12:18.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[15Aug2025 22:12:18.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15Aug2025 22:12:18.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15Aug2025 22:12:18.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15Aug2025 22:12:18.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15Aug2025 22:12:18.598] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15Aug2025 22:12:18.694] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15Aug2025 22:12:18.694] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15Aug2025 22:12:18.694] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15Aug2025 22:12:18.694] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15Aug2025 22:12:18.818] [Server thread/WARN] [net.zepalesque.redux.Redux/]: Found already existing holder minecraft:savanna_plateau from tag forge:is_sparse! Replacing value anyway! Old value was 16772502, new is 16774563
+[15Aug2025 22:12:18.818] [Server thread/WARN] [net.zepalesque.redux.Redux/]: Found already existing holder minecraft:wooded_badlands from tag forge:is_sparse! Replacing value anyway! Old value was 16772502, new is 16774563
+[15Aug2025 22:12:18.818] [Server thread/WARN] [net.zepalesque.redux.Redux/]: Found already existing holder minecraft:snowy_slopes from tag forge:is_sparse! Replacing value anyway! Old value was 13432831, new is 16774563
+[15Aug2025 22:12:18.819] [Server thread/WARN] [net.zepalesque.redux.Redux/]: Found already existing holder minecraft:jagged_peaks from tag forge:is_sparse! Replacing value anyway! Old value was 13432831, new is 16774563
+[15Aug2025 22:12:18.819] [Server thread/WARN] [net.zepalesque.redux.Redux/]: Found already existing holder minecraft:frozen_peaks from tag forge:is_sparse! Replacing value anyway! Old value was 13432831, new is 16774563
+[15Aug2025 22:12:18.819] [Server thread/WARN] [net.zepalesque.redux.Redux/]: Found already existing holder minecraft:the_end from tag minecraft:is_end! Replacing value anyway! Old value was 13432831, new is 14007039
+[15Aug2025 22:12:18.819] [Server thread/WARN] [net.zepalesque.redux.Redux/]: Found already existing holder minecraft:end_highlands from tag minecraft:is_end! Replacing value anyway! Old value was 13432831, new is 14007039
+[15Aug2025 22:12:18.819] [Server thread/WARN] [net.zepalesque.redux.Redux/]: Found already existing holder minecraft:end_midlands from tag minecraft:is_end! Replacing value anyway! Old value was 13432831, new is 14007039
+[15Aug2025 22:12:18.819] [Server thread/WARN] [net.zepalesque.redux.Redux/]: Found already existing holder minecraft:small_end_islands from tag minecraft:is_end! Replacing value anyway! Old value was 13432831, new is 14007039
+[15Aug2025 22:12:18.820] [Server thread/WARN] [net.zepalesque.redux.Redux/]: Found already existing holder minecraft:end_barrens from tag minecraft:is_end! Replacing value anyway! Old value was 13432831, new is 14007039
+[15Aug2025 22:12:18.820] [Server thread/WARN] [net.zepalesque.redux.Redux/]: Found already existing holder incendium:weeping_valley from tag minecraft:is_nether! Replacing value anyway! Old value was 16774563, new is 15663072
+[15Aug2025 22:12:18.820] [Server thread/WARN] [net.zepalesque.redux.Redux/]: Found already existing holder incendium:quartz_flats from tag minecraft:is_nether! Replacing value anyway! Old value was 16774563, new is 15663072
+[15Aug2025 22:12:18.820] [Server thread/WARN] [net.zepalesque.redux.Redux/]: Found already existing holder incendium:ash_barrens from tag minecraft:is_nether! Replacing value anyway! Old value was 16774563, new is 15663072
+[15Aug2025 22:12:19.040] [Server thread/INFO] [portb.configlib.ConfigLib/]: Could not find config, falling back to default legacy ruleset
+[15Aug2025 22:12:19.042] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
+[15Aug2025 22:12:19.044] [Server thread/INFO] [Framework/]: Loading server configs...
+[15Aug2025 22:12:19.111] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[15Aug2025 22:12:19.113] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem aether:the_aether
+[15Aug2025 22:12:19.206] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[15Aug2025 22:12:19.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[15Aug2025 22:12:20.754] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: limitedchunks.json
+[15Aug2025 22:12:21.625] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.item.FallingBlockEntity from class com.peeko32213.unusualprehistory.common.entity.msc.projectile.ThrowableFallingBlockEntity
+[15Aug2025 22:12:21.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15Aug2025 22:12:21.824] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 22:12:22.540] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 22:12:22.701] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 22:12:23.233] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[15Aug2025 22:12:23.702] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[15Aug2025 22:12:24.199] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[15Aug2025 22:12:24.539] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2840 ms
+[15Aug2025 22:12:24.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.835s)! For help, type "help"
+[15Aug2025 22:12:24.677] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Aug2025 22:12:24.681] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: farsight.json
+[15Aug2025 22:12:24.682] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[15Aug2025 22:12:24.688] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[15Aug2025 22:12:24.688] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[15Aug2025 22:12:24.695] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
+[15Aug2025 22:12:24.933] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 762383 bytes (in 77 string chunks with the size of 10000)
+[15Aug2025 22:12:24.933] [Server thread/INFO] [com.peeko32213.unusualprehistory.common.data.AnalyzerRecipeJsonManager/]: Registered 17 jsons with items!
+[15Aug2025 22:12:24.934] [Server thread/WARN] [ModernFix/]: Dedicated server took 68.459 seconds to load
+[15Aug2025 22:12:25.265] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.http.HttpTimeoutException: request timed out
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:953) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:142) ~[fmlcore-1.20.1-47.4.0.jar%23326!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:180) ~[fmlcore-1.20.1-47.4.0.jar%23326!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23326!/:?]
+[15Aug2025 22:12:25.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[15Aug2025 22:12:25.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[15Aug2025 22:12:25.352] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[15Aug2025 22:12:25.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
+[15Aug2025 22:12:25.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[15Aug2025 22:12:25.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 9.0.4 Target: 9.0.6
+[15Aug2025 22:12:25.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[15Aug2025 22:12:25.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[15Aug2025 22:12:25.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether_protect_your_moa] Starting version check at https://github.com/The-Aether-Team/Protect-Your-Moa/raw/1.20.1-develop/update.json
+[15Aug2025 22:12:25.485] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether_protect_your_moa] Found status: UP_TO_DATE Current: 1.20.1-1.0.0-neoforge Target: null
+[15Aug2025 22:12:25.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
+[15Aug2025 22:12:25.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
+[15Aug2025 22:12:25.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [deep_aether] Starting version check at https://github.com/RazorDevs/Deep-Aether/raw/1.20.1-1.1/update.json
+[15Aug2025 22:12:25.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [deep_aether] Found status: OUTDATED Current: 1.20.1-1.1.6.1 Target: 1.20.1-1.1.7
+[15Aug2025 22:12:25.724] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[15Aug2025 22:12:25.860] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23326!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23326!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[15Aug2025 22:12:25.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[15Aug2025 22:12:25.872] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23326!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23326!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[15Aug2025 22:12:25.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[15Aug2025 22:12:25.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
+[15Aug2025 22:12:25.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Starting version check at https://api.modrinth.com/updates/OhduvhIc/forge_updates.json
+[15Aug2025 22:12:26.010] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Found status: OUTDATED Current: 1.1.0 Target: 1.1.0+mod
+[15Aug2025 22:12:26.011] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15Aug2025 22:12:26.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[15Aug2025 22:12:26.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[15Aug2025 22:12:26.919] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
+[15Aug2025 22:12:26.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[15Aug2025 22:12:26.994] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[15Aug2025 22:12:26.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[15Aug2025 22:12:27.023] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23326!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23326!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[15Aug2025 22:17:24.967] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@3f66638c
