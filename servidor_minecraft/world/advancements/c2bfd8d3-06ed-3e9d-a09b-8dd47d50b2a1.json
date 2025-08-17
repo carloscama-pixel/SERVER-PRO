@@ -10336,6 +10336,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/tooth_bricks": {
+    "criteria": {
+      "has_thrasher_tooth": "2025-08-17 23:52:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
     "criteria": {
       "has_sea_serpent_scales_purple": "2025-08-17 22:02:38 +0000"
@@ -10366,6 +10372,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:adventure/tooth_fairy": {
+    "criteria": {
+      "thrasher_tooth": "2025-08-17 23:52:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_purple_boots": {
     "criteria": {
       "has_item": "2025-08-17 22:02:38 +0000"
@@ -10375,6 +10387,12 @@
   "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
     "criteria": {
       "has_item": "2025-08-17 22:12:30 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/tooth_block": {
+    "criteria": {
+      "has_thrasher_tooth": "2025-08-17 23:52:06 +0000"
     },
     "done": true
   },
@@ -10399,6 +10417,12 @@
   "iceandfire:recipes/combat/tide_red_leggings": {
     "criteria": {
       "has_item": "2025-08-17 22:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-08-17 23:51:48 +0000"
     },
     "done": true
   },
@@ -10453,6 +10477,12 @@
   "iceandfire:recipes/combat/deathworm_yellow_leggings": {
     "criteria": {
       "has_item": "2025-08-17 22:12:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-08-17 23:48:38 +0000"
     },
     "done": true
   },

@@ -1196,3 +1196,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17Aug2025 23:26:33.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was squished too much
 [17Aug2025 23:28:08.810] [Worker-Main-142/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [17Aug2025 23:31:14.022] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/57821, l='ServerLevel[world]', x=-3850.70, y=54.55, z=-6494.14] died, message: 'Cleric drowned'
+[17Aug2025 23:52:06.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Tooth Fairy]
+[17Aug2025 23:54:45.024] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[17Aug2025 23:54:45.028] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[17Aug2025 23:54:51.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.hydroshot
+[17Aug2025 23:55:02.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Soul Magic]
+[17Aug2025 23:55:31.471] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[17Aug2025 23:55:31.475] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[17Aug2025 23:55:38.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.floodgate
