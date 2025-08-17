@@ -1184,3 +1184,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17Aug2025 22:55:36.964] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [17Aug2025 22:55:36.981] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [17Aug2025 22:55:48.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was turned into KFC by a dragon
+[17Aug2025 23:04:48.281] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[17Aug2025 23:04:48.285] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
