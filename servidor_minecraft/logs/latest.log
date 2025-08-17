@@ -1173,3 +1173,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17Aug2025 22:35:30.326] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [17Aug2025 22:35:30.330] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [17Aug2025 22:35:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was shot by Horuso
+[17Aug2025 22:37:59.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [I Dont Think You Need It]
+[17Aug2025 22:40:35.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Forgotten Sands]
+[17Aug2025 22:41:30.974] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[17Aug2025 22:41:30.987] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[17Aug2025 22:41:37.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Centinel
