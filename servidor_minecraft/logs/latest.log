@@ -1178,3 +1178,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17Aug2025 22:41:30.974] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [17Aug2025 22:41:30.987] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [17Aug2025 22:41:37.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Centinel
+[17Aug2025 22:50:27.083] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[17Aug2025 22:50:27.085] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[17Aug2025 22:50:27.086] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[17Aug2025 22:55:36.964] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[17Aug2025 22:55:36.981] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[17Aug2025 22:55:48.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was turned into KFC by a dragon
