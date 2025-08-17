@@ -12803,3 +12803,113 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17Aug2025 22:03:53.076] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9815, l='ServerLevel[world]', x=-1877.70, y=70.00, z=-5393.51] died, message: 'Unemployed was slain by Decaying Zombie'
 [17Aug2025 22:04:00.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Aug2025 22:04:00.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 22:05:52.769] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9798, l='ServerLevel[world]', x=-1882.44, y=68.00, z=-5377.03] died, message: 'Unemployed was slain by Husk'
+[17Aug2025 22:07:14.619] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/9764, l='ServerLevel[world]', x=-1919.99, y=69.00, z=-5398.29] died, message: 'Weaponsmith was slain by Decaying Zombie'
+[17Aug2025 22:07:48.647] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[17Aug2025 22:07:48.656] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[17Aug2025 22:07:48.657] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[17Aug2025 22:07:48.659] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[17Aug2025 22:07:48.661] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[17Aug2025 22:07:48.663] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[17Aug2025 22:07:48.665] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[17Aug2025 22:07:48.668] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[17Aug2025 22:07:48.670] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[17Aug2025 22:07:48.672] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[17Aug2025 22:07:48.674] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[17Aug2025 22:07:48.676] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[17Aug2025 22:07:48.678] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[17Aug2025 22:07:48.681] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[17Aug2025 22:07:48.682] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[17Aug2025 22:07:48.684] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[17Aug2025 22:07:48.686] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[17Aug2025 22:07:48.693] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[17Aug2025 22:07:48.698] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[17Aug2025 22:07:48.703] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[17Aug2025 22:07:48.706] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[17Aug2025 22:07:48.708] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[17Aug2025 22:07:48.710] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[17Aug2025 22:07:48.714] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[17Aug2025 22:07:48.716] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[17Aug2025 22:07:48.719] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[17Aug2025 22:07:48.720] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[17Aug2025 22:07:52.050] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[17Aug2025 22:07:53.551] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[17Aug2025 22:08:01.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:08:04.889] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:08:05.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved wrongly!
+[17Aug2025 22:08:26.717] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9797, l='ServerLevel[world]', x=-1909.56, y=67.00, z=-5374.16] died, message: 'Unemployed was slain by Husk'
+[17Aug2025 22:08:32.814] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9814, l='ServerLevel[world]', x=-1908.31, y=67.00, z=-5374.70] died, message: 'Unemployed was slain by Husk'
+[17Aug2025 22:08:34.742] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:08:35.140] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:08:39.140] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:08:39.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:08:39.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved wrongly!
+[17Aug2025 22:08:41.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:08:42.590] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:08:46.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:09:00.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 22:09:00.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 22:10:03.994] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:10:03.997] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:10:03.998] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:10:04.000] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:10:04.001] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:10:04.003] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:10:06.144] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:10:06.146] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:10:06.147] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:10:06.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:10:06.149] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:10:06.151] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:10:27.549] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[17Aug2025 22:10:35.422] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[17Aug2025 22:10:36.301] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:tomb1
+[17Aug2025 22:11:18.684] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/PlayerInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[17Aug2025 22:11:18.685] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/RangedWrapper (target of net/minecraftforge/items/IItemHandler)
+[17Aug2025 22:11:18.686] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/PlayerArmorInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[17Aug2025 22:11:18.686] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/PlayerOffhandInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[17Aug2025 22:11:18.693] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[17Aug2025 22:11:18.694] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[17Aug2025 22:11:25.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 hit the ground too hard
+[17Aug2025 22:11:25.690] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:-2074, y:82, z:-5758, dim:minecraft:overworld]
+[17Aug2025 22:11:27.187] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[17Aug2025 22:11:28.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[17Aug2025 22:11:29.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[17Aug2025 22:11:29.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[17Aug2025 22:11:29.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[17Aug2025 22:11:29.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[17Aug2025 22:11:29.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[17Aug2025 22:11:29.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[17Aug2025 22:11:29.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[17Aug2025 22:11:29.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[17Aug2025 22:11:29.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[17Aug2025 22:11:29.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[17Aug2025 22:11:38.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[17Aug2025 22:11:38.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_skeleton_juggernaut_2
+[17Aug2025 22:11:38.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_part_4
+[17Aug2025 22:11:38.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_ranged_illager_0
+[17Aug2025 22:11:38.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_skeleton_juggernaut_0
+[17Aug2025 22:11:38.710] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_4_bridge_mini
+[17Aug2025 22:11:38.710] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_skeleton_juggernaut_1
+[17Aug2025 22:11:38.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_part_1
+[17Aug2025 22:11:38.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_skeleton_assassin_1
+[17Aug2025 22:11:38.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_small_room_2
+[17Aug2025 22:11:38.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_small_room_3
+[17Aug2025 22:11:38.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_2
+[17Aug2025 22:11:38.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_1
+[17Aug2025 22:11:38.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_skeleton_assassin_0
+[17Aug2025 22:11:38.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_small_room_0
+[17Aug2025 22:11:38.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_ranged_skeleton_1
+[17Aug2025 22:11:38.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_3_bridge
+[17Aug2025 22:11:38.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_part_0
+[17Aug2025 22:11:38.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_part_2
+[17Aug2025 22:11:38.782] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_small_room_1
+[17Aug2025 22:11:38.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_part_3
+[17Aug2025 22:11:38.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_terminator_0
+[17Aug2025 22:11:38.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_roof_terminator_0
+[17Aug2025 22:11:38.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_base_terminator_0
+[17Aug2025 22:11:38.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_small_room_terminator_0
+[17Aug2025 22:12:29.383] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Aug2025 22:12:29.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [The Desert Swimmers]
+[17Aug2025 22:14:00.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 22:14:00.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

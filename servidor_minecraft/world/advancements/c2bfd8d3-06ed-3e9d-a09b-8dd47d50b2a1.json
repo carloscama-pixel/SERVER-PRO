@@ -10314,6 +10314,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-08-17 22:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-08-17 21:56:42 +0000"
@@ -10332,9 +10338,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-08-17 22:10:10 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_purple_boots": {
     "criteria": {
       "has_item": "2025-08-17 22:02:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-17 22:12:30 +0000"
     },
     "done": true
   },
@@ -10350,9 +10368,33 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-17 22:12:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-08-17 22:10:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-08-17 22:10:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-08-17 21:56:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-08-17 22:12:30 +0000"
     },
     "done": true
   },
@@ -10365,6 +10407,24 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-08-17 21:56:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-17 22:10:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-08-17 22:12:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-08-17 22:10:10 +0000"
     },
     "done": true
   },

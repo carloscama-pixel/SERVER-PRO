@@ -1156,3 +1156,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17Aug2025 21:54:25.811] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [17Aug2025 21:59:22.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! 8.835207373660069,2.130906499714527,-5.102808116876986
 [17Aug2025 22:03:53.076] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9815, l='ServerLevel[world]', x=-1877.70, y=70.00, z=-5393.51] died, message: 'Unemployed was slain by Decaying Zombie'
+[17Aug2025 22:05:52.769] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9798, l='ServerLevel[world]', x=-1882.44, y=68.00, z=-5377.03] died, message: 'Unemployed was slain by Husk'
+[17Aug2025 22:07:14.619] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/9764, l='ServerLevel[world]', x=-1919.99, y=69.00, z=-5398.29] died, message: 'Weaponsmith was slain by Decaying Zombie'
+[17Aug2025 22:08:05.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved wrongly!
+[17Aug2025 22:08:26.717] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9797, l='ServerLevel[world]', x=-1909.56, y=67.00, z=-5374.16] died, message: 'Unemployed was slain by Husk'
+[17Aug2025 22:08:32.814] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9814, l='ServerLevel[world]', x=-1908.31, y=67.00, z=-5374.70] died, message: 'Unemployed was slain by Husk'
+[17Aug2025 22:08:39.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved wrongly!
+[17Aug2025 22:11:18.693] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[17Aug2025 22:11:18.694] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[17Aug2025 22:11:25.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 hit the ground too hard
+[17Aug2025 22:12:29.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [The Desert Swimmers]
