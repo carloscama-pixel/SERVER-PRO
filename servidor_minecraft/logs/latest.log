@@ -1167,3 +1167,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17Aug2025 22:11:25.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 hit the ground too hard
 [17Aug2025 22:12:29.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [The Desert Swimmers]
 [17Aug2025 22:21:07.780] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1931649b[id=<null>,name=SUPATA123,properties={},legacy=false] (/127.165.82.191:45495) lost connection: Disconnected
+[17Aug2025 22:25:53.572] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[17Aug2025 22:25:53.579] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[17Aug2025 22:26:08.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Scarlet Persecutor
+[17Aug2025 22:35:30.326] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[17Aug2025 22:35:30.330] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[17Aug2025 22:35:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was shot by Horuso
