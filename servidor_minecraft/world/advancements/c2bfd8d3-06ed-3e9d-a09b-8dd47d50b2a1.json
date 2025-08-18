@@ -10318,12 +10318,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-08-18 00:04:00 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/combat/deathworm_yellow_helmet": {
     "criteria": {
       "has_item": "2025-08-17 22:12:30 +0000"
