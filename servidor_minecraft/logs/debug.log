@@ -15999,3 +15999,60 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Aug2025 01:44:07.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Aug2025 01:49:07.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Aug2025 01:49:07.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 01:50:32.069] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103117, l='ServerLevel[world]', x=-1873.81, y=64.00, z=-5428.59] died, message: 'Unemployed was slain by Guster'
+[18Aug2025 01:50:34.314] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 15720
+[18Aug2025 01:50:34.330] [dimthread_server_overworld/DEBUG] [ModernFix/]: Structure tlc:lost_castle/castle_mm is being run through DFU (hash 26a949d07d4ebb43b3d0a20ba51bd5f07f3432f49f3820195516a811a0c3871d), this will cause launch time delays
+[18Aug2025 01:50:34.505] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 5242
+[18Aug2025 01:50:34.531] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 14372
+[18Aug2025 01:50:34.611] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 4059
+[18Aug2025 01:50:34.678] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 20055
+[18Aug2025 01:50:34.702] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 18654
+[18Aug2025 01:50:34.782] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 14756
+[18Aug2025 01:50:34.815] [Worker-Main-290/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 14756
+[18Aug2025 01:50:34.821] [Worker-Main-290/DEBUG] [ModernFix/]: Structure tlc:lost_castle/hostile_mobs/vindicator is being run through DFU (hash b6401eb3c859d43994a463fd81161050a446a9be1aea1f7c6c4a58300a183dd6), this will cause launch time delays
+[18Aug2025 01:50:34.921] [Worker-Main-290/DEBUG] [ModernFix/]: Structure tlc:lost_castle/castle_ml is being run through DFU (hash 4df051136e7183719d0c845ffd39e89fe4a454594805d49a93433983ee59230c), this will cause launch time delays
+[18Aug2025 01:50:35.134] [Worker-Main-290/DEBUG] [ModernFix/]: Structure tlc:lost_castle/castle_bm is being run through DFU (hash d1e8a547bec5895d90e72f145d1f62933dfb07c8fcccf0b37a6ea476b2837870), this will cause launch time delays
+[18Aug2025 01:50:35.180] [Worker-Main-290/DEBUG] [ModernFix/]: Structure tlc:lost_castle/castle_tm is being run through DFU (hash a9246ad096516979daabcf5a10d873564f0eb9eb799f93ae6f7f56607894987c), this will cause launch time delays
+[18Aug2025 01:50:35.329] [Worker-Main-290/DEBUG] [ModernFix/]: Structure tlc:lost_castle/castle_mr is being run through DFU (hash 5996fe5b4ccbaa0fc5686c4b93e2c706e99a7f8a28c4933654ea82d015e028e5), this will cause launch time delays
+[18Aug2025 01:50:35.567] [Worker-Main-290/DEBUG] [ModernFix/]: Structure tlc:lost_castle/castle_br is being run through DFU (hash ef18a9cf3972ebc2debd2256ba7671f614b079d137f5abc5b665281719691817), this will cause launch time delays
+[18Aug2025 01:50:35.780] [Worker-Main-290/DEBUG] [ModernFix/]: Structure tlc:lost_castle/castle_bl is being run through DFU (hash 42c7a1eb5726e30dc3b9eee813af2d3c3611a2d29513eb1ac233fdac447ae142), this will cause launch time delays
+[18Aug2025 01:50:35.973] [Worker-Main-290/DEBUG] [ModernFix/]: Structure tlc:lost_castle/castle_tr is being run through DFU (hash ccd16a949f60a5bf852ed086426b422e53630a06dbd7b2aab8ef1f44ec3eda23), this will cause launch time delays
+[18Aug2025 01:50:36.073] [Worker-Main-290/DEBUG] [ModernFix/]: Structure tlc:lost_castle/castle_tl is being run through DFU (hash 5ab7feb42f8e5beb84a8e1e5ef1e898d25080ffa59a5c389b2e51325fac47a62), this will cause launch time delays
+[18Aug2025 01:50:36.182] [Worker-Main-290/DEBUG] [ModernFix/]: Structure tlc:lost_castle/hostile_mobs/evoker is being run through DFU (hash e18542b635aa587500e24d3b09d2929f2cda7439492696573aff428c10cf7e1c), this will cause launch time delays
+[18Aug2025 01:50:36.187] [Worker-Main-290/DEBUG] [ModernFix/]: Structure tlc:lost_castle/hostile_mobs/witch is being run through DFU (hash 31357947f68de63e2798a95598ca9482959850fdecb353f200cad824b4c07bf4), this will cause launch time delays
+[18Aug2025 01:50:36.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[18Aug2025 01:54:09.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 01:54:09.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 01:55:30.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[18Aug2025 01:55:30.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[18Aug2025 01:55:30.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[18Aug2025 01:55:30.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[18Aug2025 01:55:30.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[18Aug2025 01:57:22.511] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:57:24.909] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:57:25.610] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:57:29.011] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:57:30.408] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:57:31.112] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:57:55.552] [Worker-Main-290/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:57:55.553] [Worker-Main-290/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:59:10.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 01:59:10.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 01:59:14.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18Aug2025 01:59:45.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:59:45.461] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:59:45.462] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:59:45.464] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:59:49.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:59:54.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:59:56.453] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:59:56.455] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:59:56.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:59:56.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:59:56.462] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:59:59.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 02:00:02.736] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[18Aug2025 02:00:02.745] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[18Aug2025 02:00:16.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was killed by Guardian using magic
+[18Aug2025 02:00:16.678] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:-2922, y:32, z:-6233, dim:minecraft:overworld]
+[18Aug2025 02:00:17.979] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage

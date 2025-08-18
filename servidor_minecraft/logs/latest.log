@@ -63,3 +63,25 @@
 [18Aug2025 01:41:24.288] [Worker-Main-290/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [18Aug2025 01:41:24.289] [Worker-Main-290/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [18Aug2025 01:41:24.289] [Worker-Main-290/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:50:32.069] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103117, l='ServerLevel[world]', x=-1873.81, y=64.00, z=-5428.59] died, message: 'Unemployed was slain by Guster'
+[18Aug2025 01:50:34.314] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 15720
+[18Aug2025 01:50:34.505] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 5242
+[18Aug2025 01:50:34.531] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 14372
+[18Aug2025 01:50:34.611] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 4059
+[18Aug2025 01:50:34.678] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 20055
+[18Aug2025 01:50:34.702] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 18654
+[18Aug2025 01:50:34.782] [dimthread_server_overworld/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 14756
+[18Aug2025 01:50:34.815] [Worker-Main-290/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 14756
+[18Aug2025 01:50:36.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[18Aug2025 01:57:22.511] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:57:24.909] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:57:25.610] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:57:29.011] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:57:30.408] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:57:31.112] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:57:55.552] [Worker-Main-290/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:57:55.553] [Worker-Main-290/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:59:14.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18Aug2025 02:00:02.736] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[18Aug2025 02:00:02.745] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[18Aug2025 02:00:16.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was killed by Guardian using magic
