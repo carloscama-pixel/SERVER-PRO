@@ -10318,6 +10318,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-18 00:04:00 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/deathworm_yellow_helmet": {
     "criteria": {
       "has_item": "2025-08-17 22:12:30 +0000"
@@ -10411,6 +10417,12 @@
   "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
       "killed_fire_dragon": "2025-08-17 22:12:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-08-17 23:55:02 +0000"
     },
     "done": true
   },
