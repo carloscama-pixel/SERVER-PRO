@@ -1,1 +1,9 @@
 [18Aug2025 00:31:49.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Trick-or-Treat?]
+[18Aug2025 01:00:00.605] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/73500, l='ServerLevel[world]', x=-236.50, y=32.00, z=-6050.50]
+[18Aug2025 01:01:12.826] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Horror of the Depths]
+[18Aug2025 01:07:08.361] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:07:14.161] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:07:14.862] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:07:15.564] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 01:08:36.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18Aug2025 01:08:54.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind

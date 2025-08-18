@@ -10318,6 +10318,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-18 01:04:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-08-18 00:31:31 +0000"
@@ -10372,9 +10378,27 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-08-18 01:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-18 01:00:48 +0000"
+    },
+    "done": true
+  },
   "endrem:main/black_eye": {
     "criteria": {
       "black_eye": "2025-08-17 23:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-18 01:00:48 +0000"
     },
     "done": true
   },
@@ -10474,6 +10498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-18 01:00:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {
       "has_item": "2025-08-17 22:10:10 +0000"
@@ -10537,6 +10567,12 @@
   "iceandfire:recipes/combat/deathworm_yellow_leggings": {
     "criteria": {
       "has_item": "2025-08-17 22:12:30 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-08-18 01:01:12 +0000"
     },
     "done": true
   },
