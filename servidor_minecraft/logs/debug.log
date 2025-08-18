@@ -15708,3 +15708,164 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Aug2025 01:08:50.573] [Worker-Main-294/DEBUG] [ModernFix/]: Structure dungeons_arise:typhon/typhon_part_0 is being run through DFU (hash ef5ad598b72504c863077bcf77d6f95045b5c18eb49ab1d25b6764a642545e7e), this will cause launch time delays
 [18Aug2025 01:08:51.124] [Worker-Main-294/DEBUG] [ModernFix/]: Structure dungeons_arise:typhon/typhon_part_2 is being run through DFU (hash 3a84eed6b6c85e2f7675aab32a3ac7ad764d123fe0996979ed0cd249be6234dc), this will cause launch time delays
 [18Aug2025 01:08:54.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
+[18Aug2025 01:09:05.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 01:09:05.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 01:11:13.494] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/77646, l='ServerLevel[world]', x=-351.69, y=65.51, z=-6863.25]
+[18Aug2025 01:11:45.243] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-12, z=-6736}
+[18Aug2025 01:11:45.346] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-12, z=-6736}
+[18Aug2025 01:11:48.671] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-12, z=-6736}
+[18Aug2025 01:11:48.812] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-12, z=-6736}
+[18Aug2025 01:11:51.767] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_1
+[18Aug2025 01:11:52.782] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-951, y=-12, z=-6665}
+[18Aug2025 01:11:52.845] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-12, z=-6686}
+[18Aug2025 01:11:52.846] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-961, y=-12, z=-6666}
+[18Aug2025 01:11:52.846] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-951, y=-12, z=-6665}
+[18Aug2025 01:11:52.880] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-968, y=-12, z=-6707}
+[18Aug2025 01:11:52.880] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-12, z=-6686}
+[18Aug2025 01:11:52.881] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-953, y=-12, z=-6685}
+[18Aug2025 01:11:53.065] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-968, y=-12, z=-6707}
+[18Aug2025 01:11:53.090] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-12, z=-6736}
+[18Aug2025 01:11:53.095] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-968, y=-12, z=-6707}
+[18Aug2025 01:11:53.100] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-12, z=-6736}
+[18Aug2025 01:11:53.295] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=-12, z=-6756}
+[18Aug2025 01:11:53.296] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-970, y=-12, z=-6757}
+[18Aug2025 01:11:53.296] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-26, z=-6772}
+[18Aug2025 01:11:53.302] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-956, y=-12, z=-6749}
+[18Aug2025 01:11:53.303] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=-12, z=-6756}
+[18Aug2025 01:11:54.078] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-951, y=-12, z=-6665}
+[18Aug2025 01:11:54.344] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-12, z=-6686}
+[18Aug2025 01:11:54.344] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-961, y=-12, z=-6666}
+[18Aug2025 01:11:54.344] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-951, y=-12, z=-6665}
+[18Aug2025 01:12:03.591] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-968, y=-12, z=-6707}
+[18Aug2025 01:12:03.591] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-12, z=-6686}
+[18Aug2025 01:12:03.591] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-975, y=-12, z=-6694}
+[18Aug2025 01:12:03.592] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-963, y=-12, z=-6673}
+[18Aug2025 01:12:03.597] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-968, y=-12, z=-6707}
+[18Aug2025 01:12:03.597] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-982, y=1, z=-6707}
+[18Aug2025 01:12:03.598] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-969, y=-12, z=-6699}
+[18Aug2025 01:12:03.598] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-975, y=-12, z=-6694}
+[18Aug2025 01:12:14.201] [Worker-Main-290/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[18Aug2025 01:12:56.322] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:12:56.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:12:56.325] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:12:56.326] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:12:56.327] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:12:56.328] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:12:56.330] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:12:56.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:12:56.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:12:56.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:13:26.078] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:13:28.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:13:35.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:13:36.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:14:05.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 01:14:05.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 01:14:30.002] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-975, y=-12, z=-6694}
+[18Aug2025 01:14:30.002] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-990, y=1, z=-6694}
+[18Aug2025 01:14:30.043] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-990, y=1, z=-6694}
+[18Aug2025 01:14:30.043] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-996, y=-14, z=-6694}
+[18Aug2025 01:14:30.051] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-996, y=-14, z=-6694}
+[18Aug2025 01:14:31.433] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1000, y=1, z=-6695}
+[18Aug2025 01:14:31.434] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-987, y=-12, z=-6699}
+[18Aug2025 01:14:31.434] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-990, y=1, z=-6694}
+[18Aug2025 01:14:31.435] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-999, y=-13, z=-6700}
+[18Aug2025 01:14:31.436] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-996, y=-14, z=-6694}
+[18Aug2025 01:14:31.438] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1022, y=-12, z=-6695}
+[18Aug2025 01:14:31.444] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-996, y=-14, z=-6694}
+[18Aug2025 01:14:31.445] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1022, y=-12, z=-6695}
+[18Aug2025 01:14:31.446] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1022, y=-12, z=-6700}
+[18Aug2025 01:14:31.446] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1024, y=-19, z=-6713}
+[18Aug2025 01:14:31.480] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-968, y=-12, z=-6707}
+[18Aug2025 01:14:31.484] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-968, y=-12, z=-6707}
+[18Aug2025 01:14:31.485] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-982, y=1, z=-6707}
+[18Aug2025 01:14:31.485] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-969, y=-12, z=-6699}
+[18Aug2025 01:14:31.486] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-975, y=-12, z=-6694}
+[18Aug2025 01:14:31.490] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-982, y=1, z=-6707}
+[18Aug2025 01:14:31.491] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-969, y=-12, z=-6699}
+[18Aug2025 01:14:31.491] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1000, y=1, z=-6695}
+[18Aug2025 01:14:31.491] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-985, y=-12, z=-6700}
+[18Aug2025 01:14:31.492] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-975, y=-12, z=-6694}
+[18Aug2025 01:14:31.492] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-987, y=-12, z=-6699}
+[18Aug2025 01:14:31.492] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-990, y=1, z=-6694}
+[18Aug2025 01:14:31.492] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-999, y=-13, z=-6700}
+[18Aug2025 01:14:41.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:14:43.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:15:00.224] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.282] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.322] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.373] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.426] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.475] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.523] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.573] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.619] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.673] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.719] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.771] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.822] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.874] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.919] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:00.975] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:01.026] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:01.080] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:01.125] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:15:01.176] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Aug2025 01:16:08.242] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-12, z=-6736}
+[18Aug2025 01:16:08.246] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-968, y=-12, z=-6707}
+[18Aug2025 01:16:08.250] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-12, z=-6736}
+[18Aug2025 01:16:08.254] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-968, y=-12, z=-6707}
+[18Aug2025 01:16:08.254] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-982, y=1, z=-6707}
+[18Aug2025 01:16:08.258] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-977, y=-14, z=-6718}
+[18Aug2025 01:16:08.259] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-982, y=1, z=-6707}
+[18Aug2025 01:16:08.259] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-990, y=-12, z=-6726}
+[18Aug2025 01:16:08.259] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-985, y=-12, z=-6700}
+[18Aug2025 01:16:08.260] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-12, z=-6717}
+[18Aug2025 01:16:08.260] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-999, y=-13, z=-6700}
+[18Aug2025 01:16:09.439] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-12, z=-6736}
+[18Aug2025 01:16:09.481] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-12, z=-6736}
+[18Aug2025 01:16:09.492] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-977, y=-14, z=-6718}
+[18Aug2025 01:16:09.493] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-990, y=-12, z=-6726}
+[18Aug2025 01:16:11.191] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=-12, z=-6756}
+[18Aug2025 01:16:11.191] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-982, y=-12, z=-6756}
+[18Aug2025 01:16:11.192] [Worker-Main-294/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-995, y=-12, z=-6750}
+[18Aug2025 01:16:11.228] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=-12, z=-6756}
+[18Aug2025 01:16:11.235] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-956, y=-12, z=-6749}
+[18Aug2025 01:16:11.235] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=-12, z=-6756}
+[18Aug2025 01:16:12.891] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=-12, z=-6756}
+[18Aug2025 01:16:12.891] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-970, y=-12, z=-6757}
+[18Aug2025 01:16:12.892] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-26, z=-6772}
+[18Aug2025 01:16:12.916] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=-12, z=-6756}
+[18Aug2025 01:16:12.916] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-970, y=-12, z=-6757}
+[18Aug2025 01:16:12.917] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-997, y=-12, z=-6757}
+[18Aug2025 01:16:12.917] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-969, y=-12, z=-6780}
+[18Aug2025 01:16:12.918] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-970, y=-14, z=-6765}
+[18Aug2025 01:16:12.919] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-26, z=-6772}
+[18Aug2025 01:16:12.943] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=-12, z=-6756}
+[18Aug2025 01:16:12.944] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-997, y=-12, z=-6757}
+[18Aug2025 01:16:12.944] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1015, y=-12, z=-6764}
+[18Aug2025 01:16:12.944] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-982, y=-12, z=-6756}
+[18Aug2025 01:16:12.945] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-970, y=-14, z=-6765}
+[18Aug2025 01:16:15.384] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-969, y=-12, z=-6780}
+[18Aug2025 01:16:15.384] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-969, y=-12, z=-6798}
+[18Aug2025 01:16:15.384] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-970, y=-14, z=-6765}
+[18Aug2025 01:16:15.385] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-26, z=-6772}
+[18Aug2025 01:16:15.386] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-12, z=-6791}
+[18Aug2025 01:16:15.390] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-26, z=-6772}
+[18Aug2025 01:16:15.390] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-12, z=-6791}
+[18Aug2025 01:16:17.282] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-12, z=-6791}
+[18Aug2025 01:16:17.282] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-12, z=-6814}
+[18Aug2025 01:16:17.338] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-12, z=-6814}
+[18Aug2025 01:16:17.343] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-969, y=-12, z=-6798}
+[18Aug2025 01:16:17.343] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-970, y=-14, z=-6765}
+[18Aug2025 01:16:17.344] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-963, y=-12, z=-6799}
+[18Aug2025 01:16:17.345] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-12, z=-6791}
+[18Aug2025 01:16:17.345] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-12, z=-6814}
+[18Aug2025 01:16:19.031] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-12, z=-6814}
+[18Aug2025 01:16:19.037] [Worker-Main-290/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-12, z=-6814}
+[18Aug2025 01:16:21.042] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-963, y=-12, z=-6799}
+[18Aug2025 01:16:21.042] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-972, y=-12, z=-6802}
+[18Aug2025 01:16:21.043] [Worker-Main-289/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-12, z=-6814}
+[18Aug2025 01:18:10.279] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/github/alexmodguy/alexscaves/server/inventory/SpelunkeryTableMenu$1 (target of net/minecraft/world/Container)
+[18Aug2025 01:19:05.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 01:19:05.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
