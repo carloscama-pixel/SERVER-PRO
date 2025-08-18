@@ -15897,3 +15897,93 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Aug2025 01:29:05.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Aug2025 01:29:05.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [18Aug2025 01:29:05.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:31:06.996] [Worker-Main-294/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:31:06.999] [Worker-Main-294/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:31:08.237] [Worker-Main-289/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:31:08.239] [Worker-Main-289/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:31:13.915] [Worker-Main-289/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:31:15.773] [Worker-Main-294/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:31:15.785] [Worker-Main-294/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:31:55.673] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[18Aug2025 01:31:55.681] [Worker-Main-294/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_2 is being run through DFU (hash 6d894f474be7edd88ed8bab9ce59099e96d3a95e4988125d46800acbd96a176f), this will cause launch time delays
+[18Aug2025 01:31:56.183] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[18Aug2025 01:31:58.947] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:31:59.611] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:00.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:00.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:00.278] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:00.280] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:07.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:10.944] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:10.946] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:10.947] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:10.948] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:10.949] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:10.950] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:10.951] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:10.952] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:10.953] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:17.501] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:19.445] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:19.449] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:19.449] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:19.450] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:19.452] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:32:32.629] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[18Aug2025 01:32:32.641] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[18Aug2025 01:32:51.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was impaled by Deepling
+[18Aug2025 01:32:51.797] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:-2553, y:58, z:-4627, dim:minecraft:overworld]
+[18Aug2025 01:32:53.212] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[18Aug2025 01:34:03.345] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:34:04.771] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:34:05.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 01:34:05.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 01:34:11.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:34:44.080] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[18Aug2025 01:34:44.083] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[18Aug2025 01:34:50.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 died of rabies
+[18Aug2025 01:34:50.426] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:-2593, y:14, z:-4841, dim:minecraft:overworld]
+[18Aug2025 01:34:51.776] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[18Aug2025 01:35:07.418] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2562, y=-41, z=-5040}
+[18Aug2025 01:35:07.420] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2562, y=-41, z=-5040}
+[18Aug2025 01:35:07.420] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2558, y=-41, z=-5035}
+[18Aug2025 01:35:07.421] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2558, y=-41, z=-5035}
+[18Aug2025 01:35:07.421] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2565, y=-41, z=-5033}
+[18Aug2025 01:35:07.422] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2565, y=-41, z=-5033}
+[18Aug2025 01:35:07.424] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2561, y=-38, z=-5038}
+[18Aug2025 01:35:07.424] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2561, y=-38, z=-5038}
+[18Aug2025 01:35:07.424] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2566, y=-37, z=-5032}
+[18Aug2025 01:35:07.425] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2566, y=-37, z=-5032}
+[18Aug2025 01:35:07.434] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2562, y=-41, z=-5040}
+[18Aug2025 01:35:07.434] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2558, y=-41, z=-5035}
+[18Aug2025 01:35:07.434] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2565, y=-41, z=-5033}
+[18Aug2025 01:35:07.435] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2561, y=-38, z=-5038}
+[18Aug2025 01:35:07.436] [Worker-Main-290/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2566, y=-37, z=-5032}
+[18Aug2025 01:37:45.025] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:37:46.888] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:39:05.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 01:39:05.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 01:39:34.344] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-180, -310], pos: BlockPos{x=-2869, y=10, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.345] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-179, -310], pos: BlockPos{x=-2861, y=10, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.345] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-180, -310], pos: BlockPos{x=-2869, y=11, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.346] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-179, -310], pos: BlockPos{x=-2861, y=11, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.346] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-180, -310], pos: BlockPos{x=-2869, y=12, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.347] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-179, -310], pos: BlockPos{x=-2861, y=12, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.347] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-180, -310], pos: BlockPos{x=-2869, y=13, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.347] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-179, -310], pos: BlockPos{x=-2861, y=13, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.348] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-180, -310], pos: BlockPos{x=-2869, y=14, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.348] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-179, -310], pos: BlockPos{x=-2861, y=14, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.348] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-180, -310], pos: BlockPos{x=-2869, y=15, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.349] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-179, -310], pos: BlockPos{x=-2861, y=15, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.349] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-180, -310], pos: BlockPos{x=-2869, y=16, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.350] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-179, -310], pos: BlockPos{x=-2861, y=16, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.350] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-180, -310], pos: BlockPos{x=-2869, y=17, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.351] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-180, -310], pos: BlockPos{x=-2868, y=17, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.351] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-180, -310], pos: BlockPos{x=-2867, y=17, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.351] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-180, -310], pos: BlockPos{x=-2866, y=17, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.352] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-180, -310], pos: BlockPos{x=-2865, y=17, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.352] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-179, -310], pos: BlockPos{x=-2864, y=17, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.352] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-179, -310], pos: BlockPos{x=-2863, y=17, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.353] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-179, -310], pos: BlockPos{x=-2862, y=17, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:34.353] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-179, -310], pos: BlockPos{x=-2861, y=17, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
+[18Aug2025 01:39:46.498] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
