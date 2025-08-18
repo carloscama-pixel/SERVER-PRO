@@ -15987,3 +15987,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Aug2025 01:39:34.353] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-179, -310], pos: BlockPos{x=-2862, y=17, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
 [18Aug2025 01:39:34.353] [Worker-Main-294/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-179, -310], pos: BlockPos{x=-2861, y=17, z=-4960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / undead_revamp2:possesivehome_1]
 [18Aug2025 01:39:46.498] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Aug2025 01:40:07.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18Aug2025 01:40:35.308] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_3
+[18Aug2025 01:40:35.351] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[18Aug2025 01:40:35.369] [Worker-Main-294/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_3 is being run through DFU (hash 05fc48174c7c7da5bf0b2165c82dc0600807b4deb5d7fba6d578cff9c4cba62f), this will cause launch time delays
+[18Aug2025 01:40:35.511] [Worker-Main-294/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_3 is being run through DFU (hash 3fe650034339e7f0ca054ff6db4df41a21cbd3b06735b87ec8d667c133a1c188), this will cause launch time delays
+[18Aug2025 01:41:24.288] [Worker-Main-290/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:41:24.289] [Worker-Main-290/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:41:24.289] [Worker-Main-290/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Aug2025 01:44:07.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 01:44:07.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 01:49:07.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 01:49:07.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
