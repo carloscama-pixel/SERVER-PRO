@@ -1151,3 +1151,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19Aug2025 01:55:05.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
 [19Aug2025 01:55:06.078] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
 [19Aug2025 01:55:11.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[19Aug2025 02:04:38.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6297ms or 125 ticks behind
+[19Aug2025 02:07:29.225] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[19Aug2025 02:07:29.226] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[19Aug2025 02:07:30.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! -10.076943180102532,-0.5,1.632619947713465
+[19Aug2025 02:07:30.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5145ms or 102 ticks behind
+[19Aug2025 02:11:38.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has completed the challenge [Fond some bubbles]
